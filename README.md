@@ -20,6 +20,12 @@ This project is a simple, responsive **web-based calculator** developed using **
 2. Open `index.html` in any modern web browser.
 3. Start using the calculator.
 
+
+## output:
+
+https://chowdarysaritha311.github.io/Micro_IT_CALCULATOR_Project/
+
+
 ## Use Case:
 This project is ideal for:
 - Beginners learning frontend development
