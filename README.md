@@ -14,7 +14,7 @@ It can perform basic arithmetic operations like **Addition, Subtraction, Multipl
 
 ## Technologies Used:
 - HTML
-- CSS
+- CSS 
 - JavaScript
 
 ## Live Demo:
