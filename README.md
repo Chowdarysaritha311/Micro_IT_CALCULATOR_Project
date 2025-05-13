@@ -1,36 +1,21 @@
-# Simple Web Calculator
+# Calculator Web App
 
 ## Description:
-This project is a simple, responsive **web-based calculator** developed using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations such as **addition, subtraction, multiplication, and division**. The calculator provides a clean user interface and real-time result updates, making it easy and intuitive for users to perform quick calculations.
+A simple calculator project built using **HTML**, **CSS**, and **JavaScript**.  
+It can perform basic arithmetic operations like **Addition, Subtraction, Multiplication**, and **Division**.
 
-## Features:
-- Basic operations: `+`, `-`, `×`, `/`
-- Clear display with a **C (clear)** button
-- Live result calculation using JavaScript
-- Responsive and neat design with CSS Grid layout
-- No external libraries required
+## Screenshot:
+![Calculator Output](https://github.com/Chowdarysaritha311/Micro_IT_CALCULATOR_Project/raw/main/output.png)
+
+## How to Use:
+1. Clone or download the project.
+2. Open `index.html` in your browser.
+3. Use the buttons to perform calculations.
 
 ## Technologies Used:
-- **HTML5** – for page structure  
-- **CSS3** – for styling and layout  
-- **JavaScript** – for calculator logic and interactivity
+- HTML
+- CSS
+- JavaScript
 
-## How to Run:
-1. Download or clone the repository.
-2. Open `index.html` in any modern web browser.
-3. Start using the calculator.
-
-
-## output:
-
-https://chowdarysaritha311.github.io/Micro_IT_CALCULATOR_Project/
-
-
-## Use Case:
-This project is ideal for:
-- Beginners learning frontend development
-- Internship demonstration
-- Hosting on GitHub Pages as a portfolio project
-
-## License:
-This project is licensed under the MIT License.
+## Live Demo:
+[Click Here](https://chowdarysaritha311.github.io/Micro_IT_CALCULATOR_Project/)
